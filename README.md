@@ -1,5 +1,5 @@
 # stockModeling
-
+Code to acompany the book Successful Algorithmic Trading
 notebooks to scrape the past 60 days of trade data at 5 minute intervals for the snp500 stocks using yfinance and sqlite.
 
 1) run instantiate db
